@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\bin\Debug\net8.0\POOCalculadora.exe
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\bin\Debug\net8.0\POOCalculadora.deps.json
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\bin\Debug\net8.0\POOCalculadora.runtimeconfig.json
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\bin\Debug\net8.0\POOCalculadora.dll
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\bin\Debug\net8.0\POOCalculadora.pdb
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\POOCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\POOCalculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\POOCalculadora.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\POOCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\POOCalculadora.dll
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\refint\POOCalculadora.dll
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\POOCalculadora.pdb
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\POOCalculadora.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\POOCalculadora\POOCalculadora\obj\Debug\net8.0\ref\POOCalculadora.dll

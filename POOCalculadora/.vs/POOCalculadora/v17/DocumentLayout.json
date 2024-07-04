@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\POOCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{516B334F-D319-4422-8607-5988BD697C03}|POOCalculadora\\POOCalculadora.csproj|c:\\users\\usuario\\source\\repos\\poocalculadora\\poocalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516B334F-D319-4422-8607-5988BD697C03}|POOCalculadora\\POOCalculadora.csproj|solutionrelative:poocalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516B334F-D319-4422-8607-5988BD697C03}|POOCalculadora\\POOCalculadora.csproj|c:\\users\\usuario\\source\\repos\\poocalculadora\\poocalculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516B334F-D319-4422-8607-5988BD697C03}|POOCalculadora\\POOCalculadora.csproj|solutionrelative:poocalculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\POOCalculadora\\POOCalculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "POOCalculadora\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\POOCalculadora\\POOCalculadora\\Calculadora.cs",
+              "RelativeToolTip": "POOCalculadora\\Calculadora.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:31:06.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\POOCalculadora\\POOCalculadora\\Program.cs",
+              "RelativeDocumentMoniker": "POOCalculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\POOCalculadora\\POOCalculadora\\Program.cs",
+              "RelativeToolTip": "POOCalculadora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:29:23.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
