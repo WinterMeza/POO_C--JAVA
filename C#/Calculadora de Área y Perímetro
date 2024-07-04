@@ -1,0 +1,30 @@
+using System;
+
+class FiguraGeometrica
+{
+    public virtual double CalcularArea()
+    {
+        return 0;
+    }
+
+    public virtual double CalcularPerimetro()
+    {
+        return 0;
+    }
+}
+
+class Rectangulo : FiguraGeometrica
+{
+    public double Base { get; set; }
+    public double Altura { get; set; }
+
+    public override double CalcularArea()
+    {
+        return Base * Altura;
+    }
+
+    public override double CalcularPerimetro()
+    {
+        return 2 * (Base + Altura);
+    }
+}
