@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+
+class Alumno
+{
+    public string Nombre { get; set; }
+    public int Edad { get; set; }
+}
+
+class RegistroAlumnos
+{
+    private List<Alumno> alumnos = new List<Alumno>();
+
+    public void AgregarAlumno(Alumno alumno)
+    {
+        alumnos.Add(alumno);
+    }
+
+    public void MostrarAlumnos()
+    {
+        foreach (var alumno in alumnos)
+        {
+            Console.WriteLine($"Nombre: {alumno.Nombre}, Edad: {alumno.Edad}");
+        }
+    }
+}
