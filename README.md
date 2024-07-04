@@ -1,3 +1,3 @@
 # POO_C--JAVA
-### PROGRAMADOR JUNIOR
+### PROGRAMADOR JUNIOR: MEZA JIMENEZ WINTER
 **Programas hechos en C# y en JAVA**
